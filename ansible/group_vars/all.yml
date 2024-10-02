@@ -1,0 +1,7 @@
+--- 
+wp_db_name: "wordpress_db"
+wp_db_user: "wordpress_user"
+wp_db_passw: "SUA SENHA"
+db_ip: "IP MÁQUINA BD"
+wp_ip: "IP MÁQUINA APLICAÇÃO"
+wp_dir: "/srv/www/wordpress"

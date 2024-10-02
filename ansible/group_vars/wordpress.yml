@@ -1,0 +1,3 @@
+---
+db_ip: "IP MÁQUINA BD"
+wp_dir: "/srv/www/wordpress"
